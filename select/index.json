@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "春よ、来い",
+  "base_artist": "Yumi Matsutoya",
+  "createdAt": "2025-12-01T13:18:59.077919Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "春よ、来い",
+      "artist": "Yumi Matsutoya",
+      "has_synced": false,
+      "path": "select/01_春よ、来い_Yumi_Matsutoya.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "春よ、来い - A BALLADS 2",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/02_春よ、来い_-_A_BALLADS_2_Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "春よ、来い",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/03_春よ、来い_Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "春よ、来い",
+      "artist": "浜崎あゆみ",
+      "has_synced": true,
+      "path": "select/04_春よ、来い_浜崎あゆみ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "春よ、来い",
+      "artist": "Yumi Matsutoya",
+      "has_synced": true,
+      "path": "select/05_春よ、来い_Yumi_Matsutoya.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "春よ、来い - Haru Yo, Koi",
+      "artist": "Yumi Matsutoya",
+      "has_synced": true,
+      "path": "select/06_春よ、来い_-_Haru_Yo,_Koi_Yumi_Matsutoya.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "春よ、来い",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/07_春よ、来い_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "春よ、来い",
+      "artist": "Yumi Matsutoya",
+      "has_synced": true,
+      "path": "select/08_春よ、来い_Yumi_Matsutoya.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "春よ、来い (A BALLADS 2)",
+      "artist": "浜崎あゆみ",
+      "has_synced": true,
+      "path": "select/09_春よ、来い_(A_BALLADS_2)_浜崎あゆみ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "春よ、来い (录音室版)",
+      "artist": "浜崎あゆみ",
+      "has_synced": true,
+      "path": "select/10_春よ、来い_(录音室版)_浜崎あゆみ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "春よ、来い - 2022 mix",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/11_春よ、来い_-_2022_mix_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "春よ、来い",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/12_春よ、来い_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "春よ、 来い",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/13_春よ、_来い_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "春よ、来い [2022 Mix]",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/14_春よ、来い_[2022_Mix]_松任谷由実.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春よ、来い",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_01_春よ、来い_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "春よ、来い",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_02_春よ、来い_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "春よ、来い",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_03_春よ、来い_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "春よ、来い",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_04_春よ、来い_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "春よ、来い",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_05_春よ、来い_松任谷_由実.txt"
+    }
+  ]
+}
